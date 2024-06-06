@@ -11,6 +11,7 @@ But beware, these monsters are not your typical foes; they are relentless, cunni
 Controls:
  WASD to move.
 SPACE to jump.
+
 ![Screenshot 2024-06-05 214848](https://github.com/kareem-adawy/Monster-Chase/assets/71979028/c62bbf3f-dd37-4b9e-8402-7695b68df6c6)
 ![cover](https://github.com/kareem-adawy/Monster-Chase/assets/71979028/8d9bf5d2-b4eb-4942-bbdb-8fb6f2d5adfc)
 ![Screenshot 2024-06-05 215729](https://github.com/kareem-adawy/Monster-Chase/assets/71979028/f3410a5d-2767-4005-852c-6940a78adb14)
@@ -18,7 +19,7 @@ SPACE to jump.
 
 Links:
 
-[play now]https://kareem-adawy.itch.io/monster-chase
+play now: https://kareem-adawy.itch.io/monster-chase
 
 Follow me to be the first to play my new games: [More Amazing Games ](https://kareem-adawy.itch.io/)
 
