@@ -17,7 +17,8 @@ SPACE to jump.
 ![Screenshot 2024-06-05 215055](https://github.com/kareem-adawy/Monster-Chase/assets/71979028/b53f1d5a-a1bb-49e1-a06e-f4fcd86092f6)
 
 Links:
-play now: https://kareem-adawy.itch.io/monster-chase
+
+[play now]https://kareem-adawy.itch.io/monster-chase
 
 Follow me to be the first to play my new games: [More Amazing Games ](https://kareem-adawy.itch.io/)
 
