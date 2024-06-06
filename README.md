@@ -1,5 +1,6 @@
 # Monster-Chase
 the ultimate adrenaline-pumping 2D platformer horror game that will have you jumping out of your skin!
+
 ![usbaj_](https://github.com/kareem-adawy/Monster-Chase/assets/71979028/4d3b656a-b8ac-4840-97d1-e4d4505827d6)
 
 
@@ -9,6 +10,7 @@ But beware, these monsters are not your typical foes; they are relentless, cunni
 
 
 Controls:
+
  WASD to move.
 SPACE to jump.
 
